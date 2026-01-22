@@ -21,7 +21,7 @@ During static analysis, they got the input and directly printing it so , i was m
 
 ### finally
 then i was just trying to see where it points and then i found the nothing imp function and which had printf of you ofund the hidden treasure n stuff and i cld see it was some roation charcter stuff so i copied and ran the code
- THE MISDIRECTION TOOK ME ALONG TIME TO REALIZE THATS NOT THE WAY ;(
+;(
 ```c
 printf("\nYou found the hidden treasure: %s\n", local_26);
 
