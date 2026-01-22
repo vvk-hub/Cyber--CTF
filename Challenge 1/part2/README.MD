@@ -27,5 +27,3 @@ zsteg ../assests/heheheha.png
 ```
 Flag : 10:armykni3_
 
-well it really tookme a day to figure these two parts...
-
